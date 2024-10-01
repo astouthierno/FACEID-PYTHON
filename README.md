@@ -60,4 +60,24 @@ pip install -r requirements.txt
 
 ## Architecture du projet
 
-![alt text](image.png)
+Voici la structure des fichiers principaux du projet :
+
+```plaintext
+FACEID-PYTHON/
+│
+├── data/                     # Dossier des données de visages
+├── models/                   # Fichiers modèles sauvegardés (.h5)
+├── src/
+│   ├── train_model.py         # Script d'entraînement du modèle
+│   ├── predict.py             # Script de prédiction
+│   ├── app.py                 # API Flask pour la reconnaissance faciale
+│   ├── webcam_recognition.py  # Script pour reconnaissance via webcam
+│   └── utils/                 # Fonctions utilitaires
+│
+├── tests/                    # Scripts de tests
+├── requirements.txt          # Fichier de dépendances Python
+├── Dockerfile                # Fichier pour Docker
+├── .github/                  # Configuration GitHub Actions pour CI/CD
+│   └── workflows/            # Fichiers YAML pour CI/CD
+│
+└── README.md                 # Documentation du projet
