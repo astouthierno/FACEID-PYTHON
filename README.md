@@ -86,4 +86,4 @@ FACEID-PYTHON/
 
 ### Contributeurs
 
-    astouthierno - Créateur du projet et développement principal.
+astouthierno - Créateur du projet et développement principal.
