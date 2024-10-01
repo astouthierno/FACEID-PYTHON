@@ -81,3 +81,9 @@ FACEID-PYTHON/
 │   └── workflows/            # Fichiers YAML pour CI/CD
 │
 └── README.md                 # Documentation du projet
+
+```
+
+### Contributeurs
+
+    astouthierno - Créateur du projet et développement principal.
