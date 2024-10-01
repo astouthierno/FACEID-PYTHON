@@ -3,6 +3,7 @@ import os
 import matplotlib.pyplot as plt
 
 def download_lfw_dataset(data_dir="data"):
+    
     """Télécharge le jeu de données LFW et le stocke dans un répertoire local"""
     
     # Téléchargement des images
