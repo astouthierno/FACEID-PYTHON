@@ -87,3 +87,7 @@ FACEID-PYTHON/
 ### Contributeurs
 
 astouthierno - Créateur du projet et développement principal.
+
+## Licence
+
+Ce projet est sous licence MIT. Consultez le fichier LICENSE pour plus de détails.
