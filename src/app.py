@@ -8,7 +8,7 @@ from tensorflow.keras.preprocessing.image import img_to_array
 model = load_model('/home/santoudllo/Desktop/astou/FACEID-PYTHON/models/mon_modele.keras')
 
 # Définir les classes (selon ton modèle)
-class_names = ['Classe1', 'Classe2', 'Classe3', 'Classe4', 'Classe5', 'Classe6', 'Classe7']
+class_names = ['Classe1', 'Classe2', 'Classe3', 'Classe4', 'Classe5', 'Classe6', 'astou']
 
 def predict_image(image):
     # Prétraitement de l'image

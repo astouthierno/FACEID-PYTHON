@@ -47,4 +47,4 @@ def download_lfw_dataset(data_dir="data"):
 
 if __name__ == "__main__":
     
-    download_lfw_dataset("../FACEID-PYTHON/data/raw")
+    download_lfw_dataset("/home/santoudllo/Desktop/astou/FACEID-PYTHON/data/raw")
